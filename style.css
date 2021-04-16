@@ -1,0 +1,23 @@
+body {
+  background: white;
+  margin-top: 20, 10;
+  padding-left: 80, 20;
+}
+.right{
+  margin-left: 1000px;
+  margin-bottom: 0;
+  padding-right:30px ;
+}
+.right-1 {
+  margin-left: 950px;
+}
+.h2 {
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(76, 76, 107);
+}
+#header {
+  background:rgb(207, 207, 219) ;
+}
+.bw {
+  color: rgb(73, 73, 173);
+}
